@@ -1,0 +1,39 @@
+#interesting-fact{
+    font-style: italic; 
+     
+}
+#facts {
+    font-weight: bold; 
+}
+ul {
+    list-style-type: none;
+}
+#card{
+border-style: solid;
+padding: 1em; 
+width: 300px;
+background-color: 	#9370DB; 
+border-radius: 10px;
+box-shadow: 10px 10px; 
+
+}
+
+img {
+width: 300px;
+border-radius: 10px;
+
+
+}
+.animal-info{
+border-style: solid;
+padding: 1em;
+border-radius: 10px; 
+}
+#container {
+padding: 1em;
+border-style: solid;
+border-radius: 10px; 
+font-family: impact;
+text-align: center; 
+}
+
